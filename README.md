@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/tharindi-perera-/](https://www.linkedin.com/in/tharindi-perera-/)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **tharindi.sperera@gmail.com**
 
