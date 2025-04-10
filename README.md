@@ -62,13 +62,13 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 ## <img width="35" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git Stats"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharindi2003&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharindi2003&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="200"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharindi2003&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=FF675D&currStreakLabel=F85D7F" alt="GitHub Streak" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindi2003&layout=donut&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharindi2003&theme=react-dark&bg_color=0D1117&hide_border=true&line=FB8C00&color=F85D7F" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tharindi2003&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Profile Trophy" width="100%"/>
 </div>
 
 ## <img width="35" src="https://media.giphy.com/media/3hoLIVAJYkz6T0G5Xq/giphy.gif" alt="Projects"> Featured Projects
