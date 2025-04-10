@@ -58,65 +58,6 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 
 </div>
 
-## <img width="35" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git Stats"> Language Proficiency
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#F7DF1E" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="67.8584" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#F7DF1E" text-anchor="middle" dominant-baseline="middle">80%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">JavaScript</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#61DAFB" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="84.823" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#61DAFB" text-anchor="middle" dominant-baseline="middle">75%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">React</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#E34F26" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="50.8938" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#E34F26" text-anchor="middle" dominant-baseline="middle">85%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">HTML5</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#1572B6" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="67.8584" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#1572B6" text-anchor="middle" dominant-baseline="middle">80%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">CSS3</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#3776AB" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="118.7522" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#3776AB" text-anchor="middle" dominant-baseline="middle">65%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">Python</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#68A063" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="101.7876" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#68A063" text-anchor="middle" dominant-baseline="middle">70%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">Node.js</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#00599C" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="152.6814" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#00599C" text-anchor="middle" dominant-baseline="middle">55%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">C++</text>
-  </svg>
-  
-  <svg width="120" height="120" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#e6e6e6" stroke-width="12" />
-    <circle cx="60" cy="60" r="54" fill="none" stroke="#7377AD" stroke-width="12" stroke-dasharray="339.292" stroke-dashoffset="135.7168" transform="rotate(-90 60 60)" />
-    <text x="60" y="60" font-family="Arial" font-size="18" fill="#7377AD" text-anchor="middle" dominant-baseline="middle">60%</text>
-    <text x="60" y="85" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">PHP</text>
-  </svg>
-</div>
 
 ## <img width="35" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Connect"> Let's Connect
 
