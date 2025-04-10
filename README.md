@@ -31,29 +31,29 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 
 ### 🌐 Frontend
 <p style="display: flex; gap: 20px; justify-content: center">
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 ### 💻 Backend & Other Languages
 <p style="display: flex; gap: 20px; justify-content: center">
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 ### 🛠️ Tools & Design
 <p style="display: flex; gap: 20px; justify-content: center">
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 0 15px" />
-  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 0 15px" />
+  <img class="icon-line-animation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 </div>
@@ -97,22 +97,39 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 </div>
 
 <style>
-@keyframes slowPulse {
+@keyframes borderAnimation {
   0% {
-    transform: scale(1);
-    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(0, 120, 212, 0);
+    border: 2px solid transparent;
+  }
+  25% {
+    box-shadow: 0 0 0 0 rgba(0, 120, 212, 0.3);
+    border-top: 2px solid #007ACC;
   }
   50% {
-    transform: scale(1.05);
-    opacity: 0.9;
+    box-shadow: 0 0 10px 2px rgba(0, 120, 212, 0.3);
+    border-right: 2px solid #007ACC;
+    border-top: 2px solid #007ACC;
+  }
+  75% {
+    box-shadow: 0 0 10px 2px rgba(0, 120, 212, 0.3);
+    border-right: 2px solid #007ACC;
+    border-bottom: 2px solid #007ACC;
+    border-top: 2px solid #007ACC;
   }
   100% {
-    transform: scale(1);
-    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(0, 120, 212, 0);
+    border: 2px solid #007ACC;
   }
 }
 
-.animate-pulse {
-  animation: slowPulse 3s ease-in-out infinite;
+.icon-line-animation {
+  border-radius: 10px;
+  animation: borderAnimation 4s ease-in-out infinite;
+  transition: transform 0.3s ease;
+}
+
+.icon-line-animation:hover {
+  transform: translateY(-5px);
 }
 </style>
