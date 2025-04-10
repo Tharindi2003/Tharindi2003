@@ -22,7 +22,7 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 ## <img width="35" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat Coding"> Current Focus
 
 - 🔭 Building [Skill-Bridge](https://github.com/akashnavodyaperera/Skill-Bridge.git)
-- 🌱 Expanding expertise in **React, Angular, Tailwind CSS, and MongoDB**
+- 🌱 Expanding expertise in **React, Angular, and MongoDB**
 - 📝 Sharing insights through [articles on LinkedIn](https://www.linkedin.com/in/tharindi-perera-/)
 
 ## <img width="35" src="https://media.giphy.com/media/idSushTRYSmuqUVMwx/giphy.gif" alt="Tech Stack"> Tech Stack
@@ -30,31 +30,30 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 <div align="center">
 
 ### 🌐 Frontend
-<p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+<p style="display: flex; gap: 20px; justify-content: center">
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 ### 💻 Backend & Other Languages
-<p>
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+<p style="display: flex; gap: 20px; justify-content: center">
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 ### 🛠️ Tools & Design
-<p>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+<p style="display: flex; gap: 20px; justify-content: center">
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" style="margin: 0 15px" />
+  <img class="animate-pulse" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px" />
 </p>
 
 </div>
@@ -62,22 +61,7 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 ## <img width="35" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Git Stats"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharindi2003&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="200"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindi2003&layout=donut&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages" height="200"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tharindi2003&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Profile Trophy" width="100%"/>
-</div>
-
-## <img width="35" src="https://media.giphy.com/media/3hoLIVAJYkz6T0G5Xq/giphy.gif" alt="Projects"> Featured Projects
-
-<div align="center">
-  <a href="https://github.com/akashnavodyaperera/Skill-Bridge.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnavodyaperera&repo=Skill-Bridge&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Skill-Bridge"/>
-  </a>
-  <!-- Add more project cards here when you have them -->
 </div>
 
 ## <img width="35" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Connect"> Let's Connect
@@ -101,15 +85,34 @@ I'm a frontend developer passionate about creating visually stunning and highly 
 </div>
 
 <div align="center">
-  <p>📄 <a href="https://drive.google.com/file/d/1KnEPEDTNEBLXOrYZZFYjveVcwEABN1Ne/view?usp=drive_link">View my resume</a></p>
+  <a href="https://drive.google.com/file/d/1KnEPEDTNEBLXOrYZZFYjveVcwEABN1Ne/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&logoWidth=30" alt="View Resume" height="45"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tharindi2003&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+<style>
+@keyframes slowPulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-pulse {
+  animation: slowPulse 3s ease-in-out infinite;
+}
+</style>
